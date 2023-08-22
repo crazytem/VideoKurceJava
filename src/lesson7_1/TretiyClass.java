@@ -7,6 +7,7 @@ public class TretiyClass {
         
         lesson7.Employee emp = new lesson7.Employee(500);
         System.out.println(emp.salary);
+        System.out.println(emp.salary);
 
         emp.dvoynayaZP();
     }
