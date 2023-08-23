@@ -28,9 +28,9 @@ public class Student {
         System.out.println(count); 
         //System.out.println(st2.count);
         //System.out.println(st3.count);
-        
     
-}
+}}
+    
 /*
 class StudentTest{
     public static void main(String[] args) {
