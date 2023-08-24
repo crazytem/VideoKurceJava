@@ -10,7 +10,9 @@ public class OneTask {
     static void Delenie(int a, int b) {
         System.out.println("Chastnoe " + a / b + " Ostatok " + a % b);
     }
+}
 
+class OneTaskTest {
     public static void main(String[] args) {
         System.out.println(OneTask.Proizv(3, 3, 3));
         OneTask.Delenie(8, 5);
