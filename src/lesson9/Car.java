@@ -10,7 +10,7 @@ public class Car {
     String engine;
     static int count;
     
-    Car(String color, String engine){
+    public Car(String color, String engine){
         int x=5;
         int y=x+10;
         count++;
